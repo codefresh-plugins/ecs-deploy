@@ -8,4 +8,4 @@ steps:
   push to registry:
     type: push
     candidate: ${{build-step}}
-    tag: "0.1.0"
+    tags: [ "latest", "0.1.0" ]
