@@ -10,7 +10,7 @@ sources:
 maintainers:
   - name: Oleg  Verhovsky
     email: oleg@codefresh.io
-icon: https://www.metricly.com/wp-content/uploads/2017/07/ECSIcon.png
+icon: https://github.com/codefresh-plugins/ecs-deploy/blob/master/icon.jpg
 envs:
    - name: AWS_ACCESS_KEY_ID
      type: required
