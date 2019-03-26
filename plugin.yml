@@ -10,7 +10,7 @@ sources:
 maintainers:
   - name: Oleg  Verhovsky
     email: oleg@codefresh.io
-icon: https://raw.githubusercontent.com/codefresh-plugins/ecs-deploy/blob/master/icon.jpg
+icon: https://raw.githubusercontent.com/codefresh-plugins/ecs-deploy/master/icon.jpg
 envs:
    - name: AWS_ACCESS_KEY_ID
      type: required
