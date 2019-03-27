@@ -1,6 +1,8 @@
 image: codefresh/ecs
 version: 0.1.0
 description: Release a Helm chart (update or install)
+categories:
+  - deployment
 keywords:
   - ecs
   - deploy
