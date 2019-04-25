@@ -55,7 +55,7 @@ steps:
     tag: ${{CF_BRANCH}}
 
   deploy to ecs:
-    image: codefresh/cf-deploy-ecs
+    image: codefreshplugins/cf-deploy-ecs
     commands:
       - cfecs-update <aws-region> <ecs-cluster-name> <ecs-service-name>
     environment:
